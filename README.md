@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Sikder</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/6b065a63af6ffe542f29d852cf02f54382438901dd3ee35cafa1752e586a2306/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" alt="ibrahim-sikder" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://imageupload.io/ib/57CnjsNfeJWgdTy_1699544393.png" alt="ibrahim-sikder" /></a> </p>
 
 - 🔭 I’m currently working on [Ghuronti](ghuronti.com)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-nextjs-portfolio-two.vercel.app/](https://my-nextjs-portfolio-two.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Typescript**
 
 - 📫 How to reach me **ibrahimsikder5033@gmail.com**
 
@@ -17,8 +17,12 @@
 <p align="left">
 <a href="https://codepen.io/ibrahim-sikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibrahim-sikder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-sikder33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-sikder33/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ibrahim-sikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ibrahim-sikder" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ibrahim-sikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ibrahim-sikder" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/ibrahim.sikder5033/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/ibrahim.sikder5033/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ibrahim-sikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibrahim-sikder" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ibrahimsikder501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ibrahimsikder501" height="30" width="40" /></a>
+<a href="https://discord.gg/ibrahim-sikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibrahim-sikder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
