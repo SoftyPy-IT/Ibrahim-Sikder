@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Sikder</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://imageupload.io/ib/57CnjsNfeJWgdTy_1699544393.png" alt="ibrahim-sikder" /></a> </p>
-
 - 🔭 I’m currently working on [Ghuronti](ghuronti.com)
 
 - 🌱 I’m currently learning **Next Level Web development**
